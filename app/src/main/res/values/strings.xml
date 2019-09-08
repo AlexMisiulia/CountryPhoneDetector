@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CountryPhoneDetector</string>
+    <string name="input_a_number">Input a number</string>
+</resources>
